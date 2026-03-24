@@ -16,3 +16,14 @@ DOMAIN-SUFFIX,tracker.ptchdbits.co
 DOMAIN-SUFFIX,tracker.rainbowisland.co
 DOMAIN-SUFFIX,chdbits.xyz
 DOMAIN-SUFFIX,tracker.pterclub.net
+DOMAIN-KEYWORD,tracker
+DOMAIN-KEYWORD,announce.php?passkey=
+DOMAIN-KEYWORD,announce.php?authkey=
+DOMAIN-KEYWORD,announce?secure=
+DOMAIN-KEYWORD,torrent
+DOMAIN-KEYWORD,peer_id=
+DOMAIN-KEYWORD,info_hash
+DOMAIN-KEYWORD,get_peers
+DOMAIN-KEYWORD,find_node
+DOMAIN-KEYWORD,BitTorrent
+DOMAIN-KEYWORD,announce_peer
